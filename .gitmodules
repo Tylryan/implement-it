@@ -1,0 +1,3 @@
+[submodule "interactive-programming"]
+	path = interactive-programming
+	url = git@github.com:Tylryan/the-anyapp.git
